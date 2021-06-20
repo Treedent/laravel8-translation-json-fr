@@ -105,5 +105,10 @@
     "The :attribute must contain at least one number.": "Le champ :attribute doit contenir au moins un nombre",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Le champ :attribute donné est apparu dans une fuite de données. Veuillez choisir une valeur différente pour le champ :attribute.",
     "Great! You have accepted the invitation to join the :team team.": "Super ! Vous avez accepté l'invitation à rejoindre l'équipe :team.",
+    "Remove Team Member": "Supprimer un membre de l'équipe",
+    "Are you sure you would like to leave this team?": "Êtes-vous sûr de vouloir quitter cette équipe ?",
+    "Are you sure you would like to remove this person from the team?": "Êtes-vous sûr de vouloir retirer cette personne de l'équipe ?",
+    "Remove": "Retirer",
+    "Leave Team": "Quitter l'équipe",
     "All rights reserved.": "Tous droits réservés."
 }
