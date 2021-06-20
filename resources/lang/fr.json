@@ -104,6 +104,6 @@
     "The :attribute must contain at least one symbol.": "Le champ :attribute doit contenir au moins un symbol.",
     "The :attribute must contain at least one number.": "Le champ :attribute doit contenir au moins un nombre",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Le champ :attribute donné est apparu dans une fuite de données. Veuillez choisir une valeur différente pour le champ :attribute.",
+    "Great! You have accepted the invitation to join the :team team.": "Super ! Vous avez accepté l'invitation à rejoindre l'équipe :team.",
     "All rights reserved.": "Tous droits réservés."
 }
-
